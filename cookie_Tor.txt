@@ -1,0 +1,5 @@
+#LWP-Cookies-2.0
+Set-Cookie3: _auction_session="BAh7CkkiD3Nlc3Npb25faWQGOgZFVEkiJTYwN2E5ZjE0NjJiZTg1ZWRkNTJmNjExMzlkNjhkZTMxBjsAVEkiCWluaXQGOwBGVEkiEWluaXRpYXRlZF9hdAY7AEZJdToJVGltZQ2B5R2AUbA2NQo6C29mZnNldGn%2BkJ06CXpvbmVJIghQRFQGOwBGOg1uYW5vX251bWkBwjoNbmFub19kZW5pBjoNc3VibWljcm8iBxlASSIMdXNlcl9pZAY7AEZpBMdCuQFJIg9leHBpcmVzX2F0BjsARlU6IEFjdGl2ZVN1cHBvcnQ6OlRpbWVXaXRoWm9uZVsISXU7Bg1B5x3AJUc5NQg7CWkClgE7CmkGOwsiB0BgSSIfUGFjaWZpYyBUaW1lIChVUyAmIENhbmFkYSkGOwBUSXU7Bg0y5x3AJUc5NQk7CEkiCFVUQwY7AEY7CWkClgE7CmkGOwsiB0Bg--35d03890d287dbed5622d05ca8d10273879d96a0"; path="/"; domain="cn.tophatter.com"; path_spec; secure; expires="2019-10-26 01:13:19Z"; HttpOnly=None; version=0
+Set-Cookie3: attendee_session_id="f9d5259c-b2ef-4949-8115-18b100b2284d"; path="/"; domain="cn.tophatter.com"; path_spec; secure; discard; version=0
+Set-Cookie3: referrer="https%3A%2F%2Fcn.tophatter.com%2F"; path="/"; domain="cn.tophatter.com"; path_spec; secure; expires="2019-10-13 01:13:19Z"; version=0
+Set-Cookie3: visit_user_id=28918471; path="/"; domain="cn.tophatter.com"; path_spec; secure; expires="2020-04-12 01:13:19Z"; version=0
