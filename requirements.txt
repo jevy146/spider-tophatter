@@ -42,7 +42,7 @@ six==1.12.0
 stem==1.7.1
 textrank4zh==0.3
 Twisted==19.7.0
-urllib3==1.25.6
+urllib3==1.25.8
 w3lib==1.21.0
 watchdog==0.9.0
 xlrd==1.2.0
